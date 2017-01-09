@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wall/AndroidStudioProjects/GlTron/GlTron/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/wall/AndroidStudioProjects/GlTron/GlTron/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_8d8e2054198ffc7125baf4ab92b7243f2296f66c.jar" />
+    </item>
+    <item
+        jar="/Users/wall/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/wall/AndroidStudioProjects/GlTron/GlTron/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_dab0213897d48e59ac81ea9b0b8b426cd7d24385.jar" />
+    </item>
+    <item
+        jar="/Users/wall/AndroidStudioProjects/GlTron/GlTron/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/wall/AndroidStudioProjects/GlTron/GlTron/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_629c07bcda5f3505c0a5b7942a5f1d7aa05e2fda.jar" />
+    </item>
+    <item
+        jar="/Users/wall/AndroidStudioProjects/GlTron/GlTron/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/wall/AndroidStudioProjects/GlTron/GlTron/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_42bca2c22e81997c831767bc368e760a1532f90a.jar" />
+    </item>
+    <item
+        jar="/Users/wall/AndroidStudioProjects/GlTron/GlTron/libs/accessory-v2.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7e20208cb74d3bbcb4218c186d732f54b79bf0d9">
+        <dex dex="/Users/wall/AndroidStudioProjects/GlTron/GlTron/build/intermediates/pre-dexed/debug/accessory-v2.3.2_d7d5ee4c5ee72a48bb6f2ed5cdc4745b51e3bd11.jar" />
+    </item>
+    <item
+        jar="/Users/wall/AndroidStudioProjects/GlTron/GlTron/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/wall/AndroidStudioProjects/GlTron/GlTron/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_9e2a90ab81d1974341f5fa6e978481dc694bb37a.jar" />
+    </item>
+    <item
+        jar="/Users/wall/AndroidStudioProjects/GlTron/GlTron/libs/sdk-v1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e2ce3786b6e9519934c4a54aaaaf39525bf4486c">
+        <dex dex="/Users/wall/AndroidStudioProjects/GlTron/GlTron/build/intermediates/pre-dexed/debug/sdk-v1.0.0_fb2e517c98f80808d563d066ab97e108f32a4a42.jar" />
+    </item>
+    <item
+        jar="/Users/wall/AndroidStudioProjects/GlTron/GlTron/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/wall/AndroidStudioProjects/GlTron/GlTron/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_a4bb0b4c70a4457aa7fab1adef054916bafd3b41.jar" />
+    </item>
+
+</items>
